@@ -14,5 +14,5 @@ Perfect for ensuring robust password security, this tool provides flexibility an
 - **MaterialSkin.2:** Provides the modern and customizable theming for the application. Learn more about it [here](https://www.nuget.org/packages/MaterialSkin.2/).
 - **Costura.Fody:** Bundles all necessary assemblies into a single executable, making deployment simpler and more straightforward. Learn more about it [here](https://www.nuget.org/packages/Costura.Fody/).
 
-![Click here to download the latest version!](https://github.com/ThatsJohnny/Random-Password-Generator/releases/download/Release/RandomPasswordGenerator.exe)
+[Click here to download the latest version!](https://github.com/ThatsJohnny/Random-Password-Generator/releases/download/Release/RandomPasswordGenerator.exe)
 ![Random Password Generator](https://github.com/ThatsJohnny/Random-Password-Generator/blob/main/rpg.png)
